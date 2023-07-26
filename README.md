@@ -4,12 +4,12 @@
 <img align="right" height="150" style="border-radius:50px;"
         src="https://i.imgur.com/iXuL1HG.png" />
 </div><br>
-<h3 align="center">I'm a Full Stack Developer</h3>
+<h3 align="center">I'm a IT Manager & Full Stack Developer</h3>
 <p align="center">
-    <a href="https://iobaidu5.netlify.app/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-cloud-computing-user-profile-for-job-portfolio-website-classic-color-tal-revivo.png"/></a>
-<a href = "https://www.linkedin.com/in/iobaidu5/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/iobaidu5"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/></a>
-<a href = "mailto:i.obaidu5@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail-new.png" alt="i.obaidu5@gmail.com"/></a>
+    <a href="https://bilal-benzine.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-cloud-computing-user-profile-for-job-portfolio-website-classic-color-tal-revivo.png"/></a>
+<a href = "https://www.linkedin.com/in/bilalbenzine/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/iambilal94"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/></a>
+<a href = "mailto:bilal-benzine@live.fr"><img src="https://img.icons8.com/color/32/000000/gmail-new.png" alt="bilal-benzine@live.fr"/></a>
 </p>
 <br />
 <br />
@@ -53,7 +53,7 @@
 <br />
 
 <p align="center">
-    <a href="https://github.com/iobaidu5/github-readme-streak-stats">
+    <a href="https://github.com/bilalbenzine/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Obaid-Khan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iobaidu5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
 </p>
