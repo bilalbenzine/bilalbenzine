@@ -54,14 +54,14 @@
 
 <p align="center">
     <a href="https://github.com/bilalbenzine/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bilal-Benzine streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iobaidu5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bilal-Benzine streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalbenzine&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
 </p>
 
 <div align="center">
     <a href="https://github.com/bilalbenzine">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iobaidu5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iobaidu5&layout=compact&langs_count=8&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilalbenzine&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbenzine&layout=compact&langs_count=8&theme=react"/>
   </div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
